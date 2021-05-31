@@ -54,13 +54,13 @@ OUTPUT: values provided by the c++ program to the simulator
 
 ## Process Flow
 
-![process_flow](https://github.com/niteshjha08/Extended-Kalman-Filter/blob/master/images/process_flow.png) 
+![process_flow](https://github.com/niteshjha08/Extended-Kalman-Filter/blob/master/images/process_flow.PNG) 
 
 ## Output
 
 The simulator was used to plot the output points from the project alongside the pedestrian motion. The RMSE values are calculated and are found to be below the acceptable threshold.
 
-![output](https://github.com/niteshjha08/Extended-Kalman-Filter/blob/master/images/output.png)
+![output](https://github.com/niteshjha08/Extended-Kalman-Filter/blob/master/images/output.PNG)
 
 
 
